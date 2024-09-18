@@ -23,3 +23,13 @@ Tyrosinase is a copper-containing enzyme that mediates the hydroxylation of mono
 The files in this repository are ready for use. Simply click on the file, and you will be directed to the GitHub webpage to save it to your device.
 
 ## Index of data file contents
+
+[01-Supplementary-Figures-Sequences.docx](https://github.com/faguil/Tyrosinase-Evolution-Molluscs/blob/main/01-Supplementary-Figures-Sequences.docx) contains figures and tyrosinase sequences used in this study.
+
+- **Figure S1.** Neighbour-Joining (NJ) phylogenetic tree of molluscan tyrosinase proteins obtained by MEGA5.2.2 under the JTT + G substitution model. 
+- **Figure S2.** Maximum Likelihood (ML) phylogenetic tree of molluscan tyrosinase proteins obtained by RAxMLGUI v1.3 under the PROTGAMMAWAG substitution model.
+- **Figure S3.** Bayesian Inference (BI) phylogenetic tree of molluscan tyrosinase proteins obtained by MrBayes v3.2 under the WAG + G substitution model.
+- **Figure S4.** Sequence alignments of hypothetical proteins that belong to the microsynteny block between *C. gigas* scaffold 867 and *P. fucata* scaffolds 13287, 1286 and 19072.
+- **Figure S5.** Quantitative PCR expression profiles of tyrosinase genes across the mantle tissue in *P. maxima* and *P. margaritifera*.
+- **Supplementary dataset file S1.** Tyrosinase protein sequences used in this study.
+- **Supplementary dataset file S2.** List of *Pinctada margaritifera* reference gene sequences used for qPCR analysis.
