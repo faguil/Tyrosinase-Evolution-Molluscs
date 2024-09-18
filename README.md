@@ -6,7 +6,7 @@ This GitHub repository provides the supplementary data referenced in the publica
 
 All files are publicly available and can be used for further research or other applications. However, if you utilize these resources in your work, we kindly request that you cite our original publication.
 
-**Evolution of the tyrosinase gene family in bivalve molluscs: Independent expansion of the mantle gene repertoire.** Felipe Aguilera, Carmel McDougall, Bernard M. Degnan. *Acta Biomaterialia* **10**:3855-3865 (2014). https://doi.org/10.1016/j.actbio.2014.03.031.
+**Evolution of the tyrosinase gene family in bivalve molluscs: Independent expansion of the mantle gene repertoire.** Felipe Aguilera, Carmel McDougall, Bernard M. Degnan. *Acta Biomaterialia* **10**:3855-3865 (2014). https://doi.org/10.1016/j.actbio.2014.03.031
 
 **Abstract**
 
