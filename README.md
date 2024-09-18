@@ -17,6 +17,7 @@ Tyrosinase is a copper-containing enzyme that mediates the hydroxylation of mono
 - [Felipe Aguilera](mailto:f.aguilera@uq.edu.au) (first author - PhD student)
 - [Carmel McDougall](mailto:c.mcdougall@uq.edu.au) (senior author - PostDoc)
 - [Bernie Degnan](b.degnan@uq.edu.au) (corresponding author)
+- Lab website: https://www.aguileralab.com
 
 ## How to download data files
 
