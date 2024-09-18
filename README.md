@@ -24,7 +24,7 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 ## Index of data file contents
 
-[01-Supplementary-Figures-Sequences.docx](https://github.com/faguil/Tyrosinase-Evolution-Molluscs/blob/main/01-Supplementary-Figures-Sequences.docx) contains figures and tyrosinase sequences used in this study.
+[01-Supplementary-Figures-Sequences.docx](https://github.com/faguil/Tyrosinase-Evolution-Molluscs/blob/main/01-Supplementary-Figures-Sequences.docx) contains supplementary figures and tyrosinase sequences used in this study.
 
 - **Figure S1.** Neighbour-Joining (NJ) phylogenetic tree of molluscan tyrosinase proteins obtained by MEGA5.2.2 under the JTT + G substitution model. 
 - **Figure S2.** Maximum Likelihood (ML) phylogenetic tree of molluscan tyrosinase proteins obtained by RAxMLGUI v1.3 under the PROTGAMMAWAG substitution model.
